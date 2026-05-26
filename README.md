@@ -1,6 +1,7 @@
 # SnapCAD
 
 A web application that converts images to 3D models using AI.
+Project submission for Jamhacks 9: https://dorahacks.io/buidl/26370
 
 ## Setup
 
